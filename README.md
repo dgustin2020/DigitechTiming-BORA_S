@@ -3,7 +3,7 @@ Per aggiornare il firmware del cronometro sono necessari i seguenti elementi:
 
     • un cavo mini-USB.
     • un PC con sistema operativo Windows XP o superiore.
-    • il programma di aggiornamento “Multi-Update_1v4.exe” o superiori.
+    • il programma di aggiornamento “DigiUpdater.exe” o superiori.
     • il file “BORA-S-XvX.hex”, dove “XvX” indica la versione dell'aggiornamento.
     
 Collegate lo strumento al PC tramite il cavo mini-USB.
@@ -16,7 +16,7 @@ Accedete il cronometro tenendo premuto il tasto [7].
 
 Il cronometro si attiva, con l'accensione del solo backlight a mezza luminosità, nessuna visualizzazione sul display e la tastiera è disabilitata.
 
-Lanciate il programma “Multi-Update_1v4.exe” e aprite il file “BORA-S-XvX.hex” con il pulsante “Apri File”.
+Lanciate il programma “DigiUpdater.exe” e aprite il file “BORA-S-XvX.hex” con il pulsante “Apri File”.
 
 Il programma visualizza la versione dell'aggiornamento.
 
